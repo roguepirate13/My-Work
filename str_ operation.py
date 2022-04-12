@@ -10,7 +10,7 @@ def substr():
     print("Substring extracted from", index1, "to", index2, " = ", substring)
 
 
-substr()c
+substr()
 s = input("What is your favourite color\n")
 print("So your favourite color is", s.upper())
 a = input("Where are you from?")
